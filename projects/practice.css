@@ -1,0 +1,63 @@
+
+ol li{
+  background: rgba(211, 242, 8, 0.2);
+}
+
+.veg{
+   background: rgba(50, 0, 52, 0.1);
+}
+
+.gro{
+     background: rgba(249, 8, 120, 0.1);
+
+}
+h1{
+    color:white ;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+    li {
+     
+        font-size: larger;
+        font-weight: bold;
+        text-align:center;
+        list-style-position:inside;
+        padding: 4px;
+        margin-left:-40px;  
+} 
+
+body{
+    background-color: #0f4d5d;
+    color: #333;
+    text-align: center;
+}
+.card{
+    height: 270px;
+    width: 200px;
+    display: inline-block;
+    border: 1px solid; 
+    margin:15px;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 5px;
+
+}
+
+.fruits header{
+background: linear-gradient(to right, #a3ce38, #d1e231,yellow);    
+}
+.vegetables header{
+ background: linear-gradient(to right, #a84cbd, #83e2ed);
+}
+.groceries header{
+ background: linear-gradient(to right, #e64980, #ffb347); 
+     
+}
+header{
+  text-align: center;
+     clip-path: polygon(0 0, 100% 0, 100% 60%, 0 100%);
+     color: whitesmoke;
+text-decoration:underline;
+ margin-top: 0px;
+    width: 200px;
+    height: 75px;
+}
